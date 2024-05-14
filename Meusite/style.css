@@ -1,0 +1,129 @@
+body{
+    background-color: rgba(15, 231, 231, 0.13);
+}
+
+nav ul {
+  margin: 1px; padding: 1px;
+  text-align:right;
+}
+
+nav ul li {
+  list-style-type: none;
+  display: inline-block;
+  display: inline;
+}
+
+nav ul li a {
+  padding: 10px 30px;
+  text-decoration: none;
+  color: #fff;
+  display: inline-block;
+  margin: 3px;
+
+}
+
+nav ul li a:hover {
+  background-color: #690808;
+}
+h1 {
+    text-align: center;
+    color: rgba(155, 103, 103, 0.959);
+    size: 70%;
+    background-color: rgb(22, 228, 228);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h4{
+  text-align:left;
+  background-color:rgba(255, 255, 0, 0.027);
+
+}
+nav {
+  background-color:#ec1111;
+  position: relative;
+}
+
+.div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+  
+ dt{
+  font-size: larger;
+ }
+
+  h2, h4, h5 {
+    background-color:rgba(202, 224, 197, 0.884);
+    text-align: center;
+    padding: 15px;
+    margin:auto;   
+  }
+
+  p {
+    font-style:oblique;
+    margin: 1px;
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(185, 229, 215);
+    
+  }
+  .p {
+    color: black;
+    text-align: center;
+  }
+  .img{
+    border: solid;
+    padding-top: 0%;
+    margin: 0 auto;
+    width: 250px;
+  }
+  body{
+    background-color: white;
+  }
+  dt {
+    color: aquamarine;
+    background-image: none;
+    text-align: left;
+    color: #dd1212;
+    font-style: italic;
+    font-size: larger;
+  }
+
+  dd {
+    font-style:oblique;
+  }
+  
+  .table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    text-align:center;
+
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  img {
+    border-color: rgb(10, 49, 49);
+    border-style:double;
+    margin: 5px;
+    border-radius: 8px;
+    background-position: center;
+    border-color: rgb(4, 44, 44);
+    position: middle;
+    display:ruby-base-container;
+    padding: 3px;
+    text-align: center;
+  }
+ 
+  .img-conteiner {
+    text-align: center;
+    display: block;
+  }
